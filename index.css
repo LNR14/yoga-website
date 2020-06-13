@@ -1,0 +1,19 @@
+
+/*Style of the img that i used in about it floats towards
+the right and other left across teh page so that i can have text on the othet side
+and this looks attractive and saves space as well */
+#pose1 img{
+  float: left;
+  margin-right: 20px;
+  margin-left: 80px;
+}
+#pose img{
+  float: right;
+  margin-left:20px;
+  margin-right:80px;
+}
+#chakra img{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}

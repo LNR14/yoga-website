@@ -1,0 +1,13 @@
+/*Style of the img that i used in about it floats towards
+the right and other left across teh page so that i can have text on the othet side
+and this looks attractive and saves space as well */
+#mypose img{
+  float: left;
+  margin-right: 20px;
+  margin-left: 40px;
+}
+#memo img{
+  float: right;
+  margin-right: 20px;
+  margin-left: 40px;
+}

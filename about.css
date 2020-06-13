@@ -1,0 +1,38 @@
+/*Style of the img that i used in about it floats towards
+the right so that i can have text on left and this looks attractive and saves space as well */
+#me img{
+  float: right;
+  margin-left: 20px;
+  padding-right: 150px;
+  padding-top: 100px;
+}
+/*i wanted an underline for h3 stages only in this page hence i restyled it here*/
+h3{
+  text-decoration: underline;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #df4b27;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}

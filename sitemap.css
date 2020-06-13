@@ -1,0 +1,15 @@
+
+/*table styleings */
+thead{
+  text-align: center;
+}
+td{
+  text-align: center;
+  width: 80px;
+  height: 80px;
+}
+/* need thin border and the table all left padded*/
+table{
+  border: 2
+  padding-left: 30px;
+}

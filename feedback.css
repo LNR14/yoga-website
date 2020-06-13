@@ -1,0 +1,14 @@
+
+/*i want the form and the elements to be in the center hence did this*/
+body{
+  text-align: center;
+}
+/*background colour of the boxes*/
+#sub1{
+  background-color: white;
+}
+/* want a white border for the form hence this styleing help me do that*/
+form{
+  border: 10px solid white;
+  text-align: center;
+}

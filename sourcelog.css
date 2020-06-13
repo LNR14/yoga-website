@@ -1,0 +1,8 @@
+/*table styleings for the table present in sourcelog*/
+thead{
+  text-align: center;
+}
+td{
+  width: 30%;
+  height: 80px;
+}

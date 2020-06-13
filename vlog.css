@@ -1,0 +1,24 @@
+/* As vlog page consists of video i want it to be a bit unique but at the same time blending with the css of the website */
+/* style for the h1 tage used in the webpage  */
+h1{
+text-align: center;
+text-decoration:underline;
+font-family:monospace;
+}
+/* style for the h2 tage used in the webpage  */
+h2{
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+}
+/* style for the h4 tage used in the webpage  */
+h4{
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+}
+#pose1 img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}

@@ -1,0 +1,36 @@
+/* style to create the box aroung the images and at the bottom */
+* {
+  box-sizing: border-box;
+}
+/* style for the h2 tage used in the webpage  */
+h1{
+  padding-bottom: 20px;
+  text-align: center;
+  text-decoration: underline;
+  font-style: normal;
+  font-family: fantasy;
+  font-size: 50px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 8px;
+}
+
+/* Clear floats after rows */
+.row:after {
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color:#ffffe4;
+  padding: 5px;
+}
+/*styling for the footer a bit more addition for this page only*/
+.foot{
+  padding-top: 1500px;
+}
